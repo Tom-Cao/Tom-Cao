@@ -15,7 +15,7 @@
 
 #### Education
 
-- 💻 **Computer Science** Student at the **Concordia University** (Montreal, Canada 🇨🇦)
+- 💻 **Computer Science** Student at **Concordia University** (Montreal, Canada 🇨🇦)
 
 - 🧬 Specialization in **Health and Life Sciences**
 
