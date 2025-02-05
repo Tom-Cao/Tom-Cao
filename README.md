@@ -2,9 +2,9 @@
 
 - 🤔 Searching for **2025 software engineering internships (summer)**
 
-<h3>About me</h3>
+## About me
 
-<h4>Education</h4>
+#### Education
 
 - 🔭 Computer Science Student at the **Concordia University** (Montreal, Canada)
 
@@ -16,9 +16,9 @@
 
 - 🌱 Currently learning **Ruby/Rails** 🚂
 
-Reach Me
+#### Reach Me
 
-- 📫 Reach me at **sacha.arseneault@gmail.com**
+- 📫 Reach me at **caotommy0@gmail.com*
 
 - 🌎 Take a look at my website *https://sachaa.dev*
 
