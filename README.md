@@ -7,7 +7,7 @@
 
 - 🤔 Searching for **2025 software engineering internships (summer)**
 
-- 📖 Currently learning **Flask**
+- 📖 Learning **Flask**
 
 #### Education
 
