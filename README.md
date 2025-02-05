@@ -1,8 +1,13 @@
 # Heyo, I'm Tommy 👋
 
-- 🤔 Searching for **2025 software engineering internships (summer)**
 
 ## About me
+
+#### Currently
+
+- 🤔 Searching for **2025 software engineering internships (summer)**
+
+- 📖 Currently learning **Ruby/Rails** 🚂
 
 #### Education
 
@@ -13,14 +18,11 @@
 - 🌎 Minor in Geospatial Technologies
 
 
-
-- 🌱 Currently learning **Ruby/Rails** 🚂
-
 #### Reach Me
 
-- 📫 Reach me at **caotommy0@gmail.com*
+- 📫 Reach me at **caotommy0@gmail.com**
 
-- 🌎 Take a look at my website *https://sachaa.dev*
+- 🌎 Take a look at my website *https://tommycao.dev*
 
 <!--
 **Tom-Cao/Tom-Cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
