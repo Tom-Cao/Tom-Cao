@@ -2,11 +2,12 @@
 
 <h3>About me</h3>
 
-<h3>Education</h3>
+<h4>Education</h4>
+
 - 🔭 Computer Science Student at the **Concordia University** (Montreal, Canada)
 
 - 🌱 Specialization in Health and Life Sciences
-- 
+
 - 🌎 Minor in Geospatial Technologies
 
 - 🌱 Currently learning **Ruby/Rails** 🚂
