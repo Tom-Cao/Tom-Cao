@@ -1,4 +1,4 @@
-<h1> Heyo, I'm Tommy 👋 </h1>
+#Heyo, I'm Tommy 👋
 
 - 🤔 Searching for **2025 software engineering internships (summer)**
 
@@ -12,8 +12,11 @@
 
 - 🌎 Minor in Geospatial Technologies
 
+
+
 - 🌱 Currently learning **Ruby/Rails** 🚂
 
+Reach Me
 
 - 📫 Reach me at **sacha.arseneault@gmail.com**
 
