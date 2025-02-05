@@ -32,6 +32,7 @@
 
 
 ## Technical Skills
+
             <div class="tg-wrap" align="center">
             <table>
             <thead>
