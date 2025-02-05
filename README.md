@@ -1,4 +1,16 @@
-<h1> Heyo, I'm Tommy 👋 </h1>h1>
+<h1> Heyo, I'm Tommy 👋 </h1>
+
+<h3>About me</h3>
+
+- 🔭 Software Engineering Student at the **Concordia University** (Montreal, Canada)
+
+- 🌱 Currently learning **Ruby/Rails** 🚂
+
+- 🤔 Searching for **2025 software engineering internships (summer)**
+
+- 📫 Reach me at **sacha.arseneault@gmail.com**
+
+- 🌎 Take a look at my website *https://sachaa.dev*
 
 <!--
 **Tom-Cao/Tom-Cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
