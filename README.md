@@ -31,7 +31,7 @@
 - 🤝 Let's connect! <a href="https://linkedin.com/in/tommy-cao-dev" target="blank"><img align="center"  margin-left="auto" margin-right="auto" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommy-cao-dev" height="20" width="30" /></a>
 
 
-## Technical Skills
+<h2>Technical Skills</h2>
 
             <div class="tg-wrap" align="center">
             <table>
