@@ -1,5 +1,7 @@
 <h1> Heyo, I'm Tommy 👋 </h1>
 
+- 🤔 Searching for **2025 software engineering internships (summer)**
+
 <h3>About me</h3>
 
 <h4>Education</h4>
@@ -12,7 +14,6 @@
 
 - 🌱 Currently learning **Ruby/Rails** 🚂
 
-- 🤔 Searching for **2025 software engineering internships (summer)**
 
 - 📫 Reach me at **sacha.arseneault@gmail.com**
 
