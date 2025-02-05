@@ -7,13 +7,13 @@
 
 - 🤔 Searching for **2025 software engineering internships (summer)**
 
-- 📖 Currently learning **Ruby/Rails** 🚂
+- 📖 Currently learning **Flask**
 
 #### Education
 
-- 🔭 Computer Science Student at the **Concordia University** (Montreal, Canada)
+- 💻 Computer Science Student at the **Concordia University** (Montreal, Canada 🇨🇦)
 
-- 🌱 Specialization in Health and Life Sciences
+- 🧬 Specialization in Health and Life Sciences
 
 - 🌎 Minor in Geospatial Technologies
 
