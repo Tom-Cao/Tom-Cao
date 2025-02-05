@@ -1,5 +1,6 @@
 # Heyo, I'm Tommy 👋
 
+<img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
 
 ## About me
 
@@ -23,6 +24,8 @@
 - 📫 Reach me at **caotommy0@gmail.com**
 
 - 🌎 Take a look at my website *https://tommycao.dev*
+
+- 
 
 <!--
 **Tom-Cao/Tom-Cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
