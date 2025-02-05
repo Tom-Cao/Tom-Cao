@@ -1,8 +1,7 @@
-<!--
-**Tom-Cao/Tom-Cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **Tom-Cao/Tom-Cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ![](mario_coding.gif)
+<!-- GIF found here: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
 
 # Heyo, I'm Tommy 👋
 
