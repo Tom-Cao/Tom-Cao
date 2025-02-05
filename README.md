@@ -2,6 +2,8 @@
 **Tom-Cao/Tom-Cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![](mario_coding.gif)
+
 # Heyo, I'm Tommy 👋
 
 <img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
