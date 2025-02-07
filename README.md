@@ -47,11 +47,8 @@
       </td>
     </tr>
     <tr>
+      <!-- Actively Using Languages -->
       <td align='center'>
-        <!-- Java -->
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="40" height="40"/>
-        </a>
         <!-- Python -->
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/>
@@ -72,16 +69,9 @@
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Logo" width="40" height="40"/>
         </a>
-        <!-- Ruby -->
-        <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby Logo" width="40" height="40"/>
-        </a>    
       </td>
+      <!-- Actively Using Frameworks & Libraries -->
       <td align='center'>
-        <!-- Astro -->
-        <a href="https://astro.build/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.cosmicjs.com/24428290-b9d3-11ed-907c-292879eb8504-astro-logomark-dark.png" alt="Astro Logo" width="40" height="40"/>
-        </a>
         <!-- React -->
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="40" height="40"/>
@@ -90,23 +80,16 @@
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="40" height="40"/>
         </a>
-        <!-- Vite -->
-        <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite Logo" width="40" height="40"/>
-        </a>
         <!-- Unity -->
         <a href="https://unity.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity Logo" width="40" height="40"/>
-        </a>
-        <!-- Rails -->
-        <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails Logo" width="40" height="40"/>
         </a>
         <!-- GraphQL -->
         <a href="https://graphql.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL Logo" width="40" height="40"/>
         </a>
       </td>
+      <!-- Actively Using Tools -->
       <td align='center'>
         <!-- Git -->
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -148,7 +131,12 @@
       </td>
     </tr>
     <tr>
+      <!-- Previously Used Languages -->
       <td align='center'>
+        <!-- Java -->
+        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="40" height="40"/>
+        </a>
         <!-- JavaScript -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"/>
@@ -166,6 +154,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" width="40" height="40"/>
         </a>
       </td>
+      <!-- Previously Used Frameworks & Libraries -->
       <td align='center'>
         <!-- Next.js -->
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -212,6 +201,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot Logo" width="40" height="40"/>
         </a>
       </td>
+      <!-- Previously Used Tools -->
       <td align='center'>
         <!-- RabbitMQ -->
         <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
@@ -257,12 +247,14 @@
       </td>
     </tr>
     <tr>
+      <!-- Intend to Use in Future Languages -->
       <td align='center'>
         <!-- Go -->
         <a href="https://golang.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go Logo" width="40" height="40"/>
         </a>
       </td>
+      <!-- Intend to Use in Future Frameworks & Libraries -->
       <td align='center'>
         <!-- Angular -->
         <a href="https://angular.dev/" target="_blank" rel="noreferrer">
@@ -273,6 +265,7 @@
           <img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" alt="Unreal Engine Logo" width="40" height="40"/>
         </a>   
       </td>
+      <!-- Intend to Use in Future Tools -->
       <td align='center'>
         <!-- Kafka -->
         <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
