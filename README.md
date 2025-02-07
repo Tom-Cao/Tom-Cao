@@ -115,10 +115,6 @@
         <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes Logo" width="40" height="40"/>
         </a>
-        <!-- Postman -->
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman Logo" width="40" height="40"/>
-        </a>
         <!-- GitHub Actions -->
         <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" alt="GitHub Actions Logo" width="40" height="40"/>
@@ -145,27 +141,15 @@
         <a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" alt="Embedded C Logo" width="40" height="40"/>
         </a>
-        <!-- Dart -->
-        <a href="https://dart.dev" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart Logo" width="40" height="40"/>
-        </a>
-        <!-- Rust -->
-        <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" width="40" height="40"/>
-        </a>
       </td>
       <!-- Previously Used Frameworks & Libraries -->
       <td align='center'>
-        <!-- Next.js -->
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="40" height="40"/>
-        </a>
         <!-- Node.js -->
-        <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer">
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Node.js Logo" width="40" height="40"/>
         </a>
         <!-- Redux -->
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Redux Logo" width="40" height="40"/>
         </a>
         <!-- Express -->
@@ -175,10 +159,6 @@
         <!-- PostgreSQL -->
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL Logo" width="40" height="40"/>
-        </a>
-        <!-- Remix.js -->
-        <a href="https://remix.run/" target="_blank" rel="noreferrer">
-          <img src="https://remix.run/img/og.1.jpg" alt="Remix.js Logo" width="40" height="40"/>
         </a>
         <!-- PyTest -->
         <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer">
@@ -196,21 +176,9 @@
         <a href="https://opentelemetry.io" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry Logo" width="40" height="40"/>
         </a>
-        <!-- Spring Boot -->
-        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot Logo" width="40" height="40"/>
-        </a>
       </td>
       <!-- Previously Used Tools -->
       <td align='center'>
-        <!-- RabbitMQ -->
-        <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ Logo" width="40" height="40"/>
-        </a>
-        <!-- Kibana -->
-        <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="Kibana Logo" width="40" height="40"/>
-        </a>
         <!-- Figma -->
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Logo" width="40" height="40"/>
@@ -223,21 +191,9 @@
         <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira Logo" width="40" height="40"/>
         </a>
-        <!-- BitBucket -->
-        <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="BitBucket Logo" width="40" height="40"/>
-        </a>
-        <!-- Confluence -->
-        <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence Logo" width="40" height="40"/>
-        </a>
         <!-- Jenkins -->
         <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins Logo" width="40" height="40"/>
-        </a>
-        <!-- Sanity -->
-        <a href="https://www.sanity.io/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" alt="Sanity Logo" width="40" height="40"/>
         </a>
       </td>
     </tr>
