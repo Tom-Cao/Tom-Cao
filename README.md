@@ -239,6 +239,6 @@
 
 ## My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tom-Cao&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tom-Cao&theme=buefy-dark)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
