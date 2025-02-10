@@ -243,6 +243,6 @@
 
 [![Tom-Cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Cao&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api//top-langs/?username=Tom-Cao&langs_count=8&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api//top-langs/?username=Tom-Cao&langs_count=8s&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
