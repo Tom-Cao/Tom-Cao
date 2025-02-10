@@ -1,4 +1,8 @@
 <!-- **Tom-Cao/Tom-Cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- Inspired by the following Github README profiles: 
+- https://github.com/xsachax/xsachax
+- https://github.com/Jxl-s/Jxl-s
+>
 
 ![](mario_coding.gif)
 <!-- GIF found here: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
@@ -163,10 +167,6 @@
         <!-- PyTest -->
         <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="PyTest Logo" width="40" height="40"/>
-        </a>
-        <!-- Flutter -->
-        <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="40" height="40"/>
         </a>
         <!-- Firebase -->
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
