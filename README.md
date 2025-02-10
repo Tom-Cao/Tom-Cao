@@ -26,7 +26,7 @@
 
 - 📫 Reach me at **caotommy0@gmail.com**
 
-- 🌎 Take a look at my website *https://tommycao.dev*
+- 🌐 Take a look at my website *https://tommycao.dev*
 
 - 🤝 Let's connect! <p><a href="https://linkedin.com/in/tommy-cao-dev" target="blank"><img align="center"  margin-left="auto" margin-right="auto" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommy-cao-dev" height="20" width="30" /></a></p>
 
