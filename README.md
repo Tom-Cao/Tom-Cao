@@ -2,12 +2,15 @@
 <!-- Inspired by the following Github README profiles: 
 - https://github.com/xsachax/xsachax
 - https://github.com/Jxl-s/Jxl-s
+- https://github.com/Adamo-O/Adamo-O
 -->
 
 ![](mario_coding.gif)
 <!-- GIF found here: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
 
 # Heyo, I'm Tommy 👋
+
+<img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
 
 ## About me
 
@@ -245,4 +248,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api//top-langs/?username=Tom-Cao&langs_count=8&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
+<h3 align="center">Thanks for stopping by! ✌</h3>
