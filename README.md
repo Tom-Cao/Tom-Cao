@@ -239,10 +239,13 @@
 
 ## My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tom-Cao&theme=buefy-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tom-Cao&theme=midnight-purple)](https://git.io/streak-stats)
 
-![Tom-Cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Cao&show_icons=true&theme=buefy-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api//top-langs/?username=Tom-Cao&langs_count=8&layout=compact&theme=buefy-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tom-Cao&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api//top-langs/?username=Tom-Cao&langs_count=8&theme=midnight-purple&include_all_commits=true" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
