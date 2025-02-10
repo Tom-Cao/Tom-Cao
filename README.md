@@ -241,7 +241,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tom-Cao&theme=midnight-purple)](https://git.io/streak-stats)
 
-[![Tom-Cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Cao&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Tom-Cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Cao&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api//top-langs/?username=Tom-Cao&langs_count=8&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
