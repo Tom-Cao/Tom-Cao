@@ -241,4 +241,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tom-Cao&theme=buefy-dark)](https://git.io/streak-stats)
 
+![Tom-Cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Cao&show_icons=true&theme=buefy-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api//top-langs/?username=Tom-Cao&langs_count=8&layout=compact&theme=buefy-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
