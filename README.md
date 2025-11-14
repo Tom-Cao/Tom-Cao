@@ -10,7 +10,7 @@
 
 # Heyo, I'm Tommy 👋
 
-<img src="https://komarev.com/ghpvc/?username=Tom-Cao" alt="Tom-Cao" />  
+<img src="https://komarev.com/ghpvc/?username=Tom-Cao&color=green&style=for-the-badge" alt="Tom-Cao" />  
 
 ## About me
 
