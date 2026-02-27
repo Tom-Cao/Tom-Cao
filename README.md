@@ -18,7 +18,7 @@
 
 - 🤔 Searching for **2025 software engineering internships (summer)**
 
-- 📖 Learning **Flask**
+- 📖 Learning **Typescript**
 
 #### Education
 
